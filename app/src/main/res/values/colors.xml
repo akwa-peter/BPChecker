@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#a33a3a</color>
+    <color name="colorPrimaryDark">#a33a3a</color>
+    <color name="colorAccent">#cf9196</color>
+
+    <color name="colorBackground">#BCAAA4</color>
+
+    <color name="colorPrimaryLight">#a33a3a</color>
+    <color name="colorDiabetes">#a61919</color>
+    <color name="colorHypertension">#3a33ce</color>
+    <color name="colorText">#212121</color>
+    <color name="transparent"></color>
+
+    <color name="gws_color_material_grey_500">#9E9E9E</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="bg_bubble_self">#666666</color>
+    <color name="bg_bubble_watbot">#ecf0f1</color>
+
+
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#191919</color>
+    <color name="bg_screen2">#323232</color>
+    <color name="bg_screen3">#4c4c4c</color>
+    <color name="bg_screen4">#666666</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#666666</color>
+    <color name="dot_dark_screen2">#4c4c4c</color>
+    <color name="dot_dark_screen3">#4c4c4c</color>
+    <color name="dot_dark_screen4">#191919</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#cf9196</color>
+    <color name="dot_light_screen2">#cf9196</color>
+    <color name="dot_light_screen3">#cf9196</color>
+    <color name="dot_light_screen4">#cf9196</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+
+
+    <!-- Screens background color-->
+    <color name="bg_screen_quiz1">#191919</color>
+    <color name="bg_screen_quiz2">#323232</color>
+    <color name="bg_screen_quiz3">#4c4c4c</color>
+    <color name="bg_screen_quiz4">#666666</color>
+    <color name="bg_screen5">#666666</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen_quiz1">#666666</color>
+    <color name="dot_dark_screen_quiz2">#4c4c4c</color>
+    <color name="dot_dark_screen_quiz3">#4c4c4c</color>
+    <color name="dot_dark_screen_quiz4">#191919</color>
+    <color name="dot_dark_screen_quiz5">#191919</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen_quiz1">#cf9196</color>
+    <color name="dot_light_screen_quiz2">#cf9196</color>
+    <color name="dot_light_screen_quiz3">#cf9196</color>
+    <color name="dot_light_screen_quiz4">#cf9196</color>
+    <color name="dot_light_screen_quiz5">#cf9196</color>
+
+    <array name="array_dot_active_quiz">
+        <item>@color/dot_light_screen_quiz1</item>
+        <item>@color/dot_light_screen_quiz2</item>
+        <item>@color/dot_light_screen_quiz3</item>
+        <item>@color/dot_light_screen_quiz4</item>
+        <item>@color/dot_light_screen_quiz5</item>
+    </array>
+
+    <array name="array_dot_inactive_quiz">
+        <item>@color/dot_dark_screen_quiz1</item>
+        <item>@color/dot_dark_screen_quiz2</item>
+        <item>@color/dot_dark_screen_quiz3</item>
+        <item>@color/dot_dark_screen_quiz4</item>
+        <item>@color/dot_dark_screen_quiz5</item>
+    </array>
+
+
+</resources>

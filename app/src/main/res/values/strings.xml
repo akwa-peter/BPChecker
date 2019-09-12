@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BP Checker</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+</resources>
